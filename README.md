@@ -1,0 +1,2 @@
+# georgmartius
+Video stabilization library
